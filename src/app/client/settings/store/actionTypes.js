@@ -1,0 +1,11 @@
+export const SET_THEME = 'SET_THEME';
+
+export const SET_NAVBAR_COLOR = 'SET_NAVBAR_COLOR';
+
+export const SET_TEXT_COLOR = 'SET_TEXT_COLOR';
+
+export const SET_BACKGROUND_COLOR = 'SET_BACKGROUND_COLOR';
+
+export const SET_SIDEBAR_COLOR = 'SET_SIDEBAR_COLOR';
+
+export const SET_CONTENT_COLOR = 'SET_CONTENT_COLOR';

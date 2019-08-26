@@ -1,0 +1,10 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "sw-films",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "server": {
+    "url": "http://localhost:8100"
+  }
+}

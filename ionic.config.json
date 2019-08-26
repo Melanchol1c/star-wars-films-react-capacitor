@@ -1,0 +1,7 @@
+{
+  "name": "sw-films",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
